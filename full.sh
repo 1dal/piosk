@@ -10,4 +10,5 @@ chromium-browser \
     --disable-infobars \
     --disable-suggestions-service \
     --disable-save-password-bubble \
-    --start-maximized 
+    --start-maximized \
+    --no-first-run
