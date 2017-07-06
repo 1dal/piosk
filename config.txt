@@ -1,0 +1,3 @@
+dtparam=audio=on
+disable_splash=1
+avoid_warnings=1
